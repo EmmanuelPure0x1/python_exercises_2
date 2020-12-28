@@ -1,4 +1,4 @@
-# 6-1/6-3. Person information and information printed. (This exercise encompasses all three exercises)
+# 6-1/6-3. Person information and information printed. (This exercise encompasses all three exercise.)
 
 # below variables prompts input request which is then stored in variable
 fname = input("fname > ")
@@ -26,5 +26,4 @@ print(person['last_name'])
 print(person['age'])
 print(person['city'])
 
-# 6-4. Glossary 2
 
