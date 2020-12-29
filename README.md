@@ -42,7 +42,7 @@ if guess != number:
     number = str(number)
     print(f"Nope, better luck next time, I was thinking of {number}.")
 ```
-- ```Todo: Perform Code comparison (personal code & comparison)```
+- ```Todo: Perform Code comparison (personal code & solution)```
 
 ##### *Chapt-6.py:*
 ``` 
