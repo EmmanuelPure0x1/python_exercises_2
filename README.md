@@ -8,7 +8,7 @@ In this exercise, the aim of the game is to guess the number (between 1-20) by t
 ```
 - feedback: I need to apply DRY (don't repeat yourself) more effectively.
 
-####### Solution
+###### Solution
 ```python
 from random import randint
 
